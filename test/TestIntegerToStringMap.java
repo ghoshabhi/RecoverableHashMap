@@ -1,17 +1,18 @@
 import org.junit.*;
-import static org.junit.Assert.*;
+import recoverablehashmap.RecoveryManager;
+
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
-import recoverablehashmap.RecoveryManager;
 
-public class TestRecoverableHashMap {
+import static org.junit.Assert.assertEquals;
+
+public class TestIntegerToStringMap {
     Map<Integer, String> map;
     HashMap<Integer, String> realMap;
     RecoveryManager mgr;
-
-    public TestRecoverableHashMap() {
-    }
+    String mapFileName = "/Users/ghoshabhi/Downloads/RecoverableHashMap/src/map.txt";
+    String logFileName = "/Users/ghoshabhi/Downloads/RecoverableHashMap/src/log.txt";
 
     @BeforeClass
     public static void setUpClass() throws Exception {
@@ -26,7 +27,7 @@ public class TestRecoverableHashMap {
     @Before
     public void setUp() throws IOException {
         realMap = new HashMap<>();
-        mgr = new RecoveryManager(realMap, "map.txt", "log.txt");
+        mgr = new RecoveryManager(realMap, mapFileName, logFileName);
         map = mgr.getMap();
     }
 
@@ -64,5 +65,4 @@ public class TestRecoverableHashMap {
         assertEquals("Sue", map.get(1));
         assertEquals("Bob", map.get(2));
     }
-
 }

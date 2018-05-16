@@ -2,6 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97e8a165-10ba-4fcd-b24e-ed44857c0972" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/test/TestIntegerToObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecoverableHashMap.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RecoverableHashMap.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/TestRecoverableHashMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RecoverableHashMap/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RecoverableHashMap/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RecoverableHashMap/recoverablehashmap/RecoverableHashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RecoverableHashMap/recoverablehashmap/RecoverableHashMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RecoverableHashMap/recoverablehashmap/RecoveryManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RecoverableHashMap/recoverablehashmap/RecoveryManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/RecoverableHashMap/TestRecoverableHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recoverablehashmap/RecoverableHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recoverablehashmap/RecoverableHashMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/recoverablehashmap/RecoveryManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recoverablehashmap/RecoveryManager.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,15 +27,10 @@
       <file leaf-file-name="RecoveryManager.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/recoverablehashmap/RecoveryManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+            <state relative-caret-position="144">
+              <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
               <folding>
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#449#450#0" expanded="true" />
-                <element signature="e#517#518#0" expanded="true" />
-                <element signature="e#553#554#0" expanded="true" />
-                <element signature="e#664#665#0" expanded="true" />
-                <element signature="e#690#691#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -34,28 +39,14 @@
       <file leaf-file-name="RecoverableHashMap.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/recoverablehashmap/RecoverableHashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="291">
+              <caret line="57" column="33" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#199#200#0" expanded="true" />
-                <element signature="e#223#224#0" expanded="true" />
-                <element signature="e#191#192#0" expanded="true" />
-                <element signature="e#219#220#0" expanded="true" />
-                <element signature="e#449#450#0" expanded="true" />
-                <element signature="e#477#478#0" expanded="true" />
-                <element signature="e#523#524#0" expanded="true" />
-                <element signature="e#550#551#0" expanded="true" />
-                <element signature="e#159#160#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
-                <element signature="e#235#236#0" expanded="true" />
-                <element signature="e#262#263#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#355#356#0" expanded="true" />
-                <element signature="e#905#906#0" expanded="true" />
-                <element signature="e#932#933#0" expanded="true" />
-                <element signature="e#988#989#0" expanded="true" />
-                <element signature="e#1015#1016#0" expanded="true" />
+                <element signature="method#RecoverableHashMap#0;class#RecoverableHashMap#0" />
+                <element signature="method#put#0;class#RecoverableHashMap#0" />
+                <element signature="method#remove#0;class#RecoverableHashMap#0" />
+                <element signature="method#replace#0;class#RecoverableHashMap#0" />
               </folding>
             </state>
           </provider>
@@ -70,6 +61,24 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>put</find>
+      <find>remove</find>
+      <find>replace</find>
+      <find>flush</find>
+      <find>readfile</find>
+      <find>1,</find>
+      <find>value</find>
+      <find>mapFileName</find>
+      <find>fName</find>
+      <find>lName</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>firstName</replace>
+      <replace>lastName</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -78,9 +87,16 @@
       <list>
         <option value="$PROJECT_DIR$/Test/FirstTest.java" />
         <option value="$PROJECT_DIR$/Test/TestRecoverableHashMap.java" />
-        <option value="$PROJECT_DIR$/src/main/Main.java" />
-        <option value="$PROJECT_DIR$/src/recoverablehashmap/RecoveryManager.java" />
+        <option value="$PROJECT_DIR$/src/util/ReadWriteUtil.java" />
+        <option value="$PROJECT_DIR$/test/TestRecoverableHashMap.java" />
         <option value="$PROJECT_DIR$/src/recoverablehashmap/RecoverableHashMap.java" />
+        <option value="$PROJECT_DIR$/test/TestIntegerToStringMap.java" />
+        <option value="$PROJECT_DIR$/src/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/map.txt" />
+        <option value="$PROJECT_DIR$/src/main/Person.java" />
+        <option value="$PROJECT_DIR$/test/TestIntegerToObject.java" />
+        <option value="$PROJECT_DIR$/src/log.txt" />
+        <option value="$PROJECT_DIR$/src/recoverablehashmap/RecoveryManager.java" />
       </list>
     </option>
   </component>
@@ -113,7 +129,18 @@
               <item name="RecoverableHashMap" type="b2602c69:ProjectViewProjectNode" />
               <item name="RecoverableHashMap" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RecoverableHashMap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RecoverableHashMap" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="recoverablehashmap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RecoverableHashMap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RecoverableHashMap" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -142,7 +169,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestRecoverableHashMap.recoverFromEmpty">
+  <component name="RunManager" selected="JUnit.TestIntegerToObject.objectTest2">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.Main" />
       <module name="RecoverableHashMap" />
@@ -157,30 +184,13 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="All in RecoverableHashMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestIntegerToObject.objectTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RecoverableHashMap" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="package" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="FirstTest.firstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="RecoverableHashMap" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirstTest" />
-      <option name="METHOD_NAME" value="firstTest" />
+      <option name="MAIN_CLASS_NAME" value="TestIntegerToObject" />
+      <option name="METHOD_NAME" value="objectTest2" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -191,14 +201,14 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="TestRecoverableHashMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestIntegerToStringMap.recoverFromEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RecoverableHashMap" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestRecoverableHashMap" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="TestIntegerToStringMap" />
+      <option name="METHOD_NAME" value="recoverFromEmpty" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -208,13 +218,30 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="TestRecoverableHashMap.recoverFromEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestIntegerToStringMap.recoverFromNonEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RecoverableHashMap" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestIntegerToStringMap" />
+      <option name="METHOD_NAME" value="recoverFromNonEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TestRecoverableHashMap.objectTestCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RecoverableHashMap" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestRecoverableHashMap" />
-      <option name="METHOD_NAME" value="recoverFromEmpty" />
+      <option name="METHOD_NAME" value="objectTestCase" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -264,19 +291,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.FirstTest.firstTest" />
-      <item itemvalue="JUnit.All in RecoverableHashMap" />
-      <item itemvalue="JUnit.TestRecoverableHashMap" />
+      <item itemvalue="JUnit.TestRecoverableHashMap.objectTestCase" />
+      <item itemvalue="JUnit.TestIntegerToStringMap.recoverFromNonEmpty" />
+      <item itemvalue="JUnit.TestIntegerToStringMap.recoverFromEmpty" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.TestRecoverableHashMap.recoverFromEmpty" />
+      <item itemvalue="JUnit.TestIntegerToObject.objectTest2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestRecoverableHashMap.recoverFromEmpty" />
+        <item itemvalue="JUnit.TestIntegerToObject.objectTest2" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.TestRecoverableHashMap" />
-        <item itemvalue="JUnit.All in RecoverableHashMap" />
-        <item itemvalue="JUnit.FirstTest.firstTest" />
+        <item itemvalue="JUnit.TestRecoverableHashMap.objectTestCase" />
+        <item itemvalue="JUnit.TestIntegerToStringMap.recoverFromNonEmpty" />
+        <item itemvalue="JUnit.TestIntegerToStringMap.recoverFromEmpty" />
       </list>
     </recent_temporary>
   </component>
@@ -294,84 +321,130 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FirstTest_firstTest - 2018.05.14 at 09h 46m 21s.xml">
-      <configuration name="FirstTest.firstTest" configurationId="JUnit" />
+    <history-entry file="TestIntegerToStringMap_recoverFromNonEmpty - 2018.05.15 at 13h 55m 58s.xml">
+      <configuration name="TestIntegerToStringMap.recoverFromNonEmpty" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FirstTest_firstTest - 2018.05.14 at 09h 46m 37s.xml">
-      <configuration name="FirstTest.firstTest" configurationId="JUnit" />
+    <history-entry file="TestIntegerToStringMap_recoverFromNonEmpty - 2018.05.15 at 13h 56m 19s.xml">
+      <configuration name="TestIntegerToStringMap.recoverFromNonEmpty" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_RecoverableHashMap - 2018.05.14 at 09h 47m 09s.xml">
-      <configuration name="All in RecoverableHashMap" configurationId="JUnit" />
+    <history-entry file="TestIntegerToStringMap_recoverFromNonEmpty - 2018.05.15 at 13h 56m 33s.xml">
+      <configuration name="TestIntegerToStringMap.recoverFromNonEmpty" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRecoverableHashMap - 2018.05.14 at 10h 10m 22s.xml">
-      <configuration name="TestRecoverableHashMap" configurationId="JUnit" />
+    <history-entry file="TestIntegerToStringMap - 2018.05.15 at 15h 25m 48s.xml">
+      <configuration name="TestIntegerToStringMap" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRecoverableHashMap - 2018.05.14 at 10h 11m 05s.xml">
-      <configuration name="TestRecoverableHashMap" configurationId="JUnit" />
+    <history-entry file="TestIntegerToStringMap_recoverFromEmpty - 2018.05.15 at 19h 07m 14s.xml">
+      <configuration name="TestIntegerToStringMap.recoverFromEmpty" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRecoverableHashMap_recoverFromEmpty - 2018.05.14 at 15h 51m 47s.xml">
-      <configuration name="TestRecoverableHashMap.recoverFromEmpty" configurationId="JUnit" />
+    <history-entry file="TestIntegerToStringMap_recoverFromNonEmpty - 2018.05.15 at 19h 07m 23s.xml">
+      <configuration name="TestIntegerToStringMap.recoverFromNonEmpty" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRecoverableHashMap_recoverFromEmpty - 2018.05.14 at 16h 41m 08s.xml">
-      <configuration name="TestRecoverableHashMap.recoverFromEmpty" configurationId="JUnit" />
+    <history-entry file="TestRecoverableHashMap_objectTestCase - 2018.05.15 at 19h 09m 35s.xml">
+      <configuration name="TestRecoverableHashMap.objectTestCase" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestIntegerToObject_objectTest2 - 2018.05.15 at 19h 22m 05s.xml">
+      <configuration name="TestIntegerToObject.objectTest2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestIntegerToObject_objectTest2 - 2018.05.15 at 19h 27m 13s.xml">
+      <configuration name="TestIntegerToObject.objectTest2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestIntegerToObject_objectTest2 - 2018.05.15 at 19h 27m 45s.xml">
+      <configuration name="TestIntegerToObject.objectTest2" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="8" />
-      <window_info anchor="bottom" id="TODO" order="15" />
-      <window_info anchor="bottom" id="Messages" order="10" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="8" />
-      <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Run" order="1" weight="0.32848486" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32948717" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24177396" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32969698" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32848486" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32848486" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17238913" />
       <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.32969698" />
-      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="0" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
+      <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="right" id="Palette" order="9" />
       <window_info id="Designer" order="9" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="10" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.32948717" />
-      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.24963072" />
-      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="7" visible="true" weight="0.24963072" />
+      <window_info id="Structure" order="8" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="1" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="bottom" id="TODO" order="15" />
       <window_info anchor="bottom" id="Version Control" order="16" show_stripe_button="false" />
       <window_info id="Image Layers" order="10" />
       <window_info id="Capture Tool" order="11" />
       <window_info id="UI Designer" order="12" />
-      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
       <window_info anchor="right" id="Theme Preview" order="11" />
-      <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.4" />
       <window_info anchor="right" id="Palette&#9;" order="12" />
       <window_info anchor="bottom" id="Terminal" order="17" />
       <window_info anchor="bottom" id="Event Log" order="18" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Messages" order="19" />
       <window_info anchor="right" id="Maven Projects" order="13" />
       <window_info id="Favorites" order="13" side_tool="true" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32948717" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.32969698" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963072" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="5" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="6" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/RecoverableHashMap.iml">
@@ -394,7 +467,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/TestRecoverableHashMap.java">
+    <entry file="file://$PROJECT_DIR$/test/TestIntegerToObject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="29" />
@@ -415,12 +488,7 @@
         <state relative-caret-position="165">
           <caret line="11" column="54" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="54" />
           <folding>
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#517#518#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-            <element signature="e#664#665#0" expanded="true" />
-            <element signature="e#690#691#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -433,68 +501,98 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Test/FirstTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/util/ReadWriteUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="420">
+          <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/TestRecoverableHashMap.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        <state relative-caret-position="175">
+          <caret line="239" column="6" selection-start-line="239" selection-start-column="6" selection-end-line="239" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="30" column="27" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="30" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#TestRecoverableHashMap#0;class#TestRecoverableHashMap#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding>
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/map.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/log.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/TestIntegerToObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
             <element signature="method#setUpClass#0;class#TestRecoverableHashMap#0" />
             <element signature="method#tearDownClass#0;class#TestRecoverableHashMap#0" />
-            <element signature="method#tearDown#1;class#TestRecoverableHashMap#0" />
-            <element signature="docComment;method#recoverFromEmpty#0;class#TestRecoverableHashMap#0" />
-            <element signature="docComment;method#recoverFromNonEmpty#0;class#TestRecoverableHashMap#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/TestIntegerToStringMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="59" column="20" lean-forward="true" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#setUpClass#0;class#TestIntegerToStringMap#0" />
+            <element signature="method#tearDownClass#0;class#TestIntegerToStringMap#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/recoverablehashmap/RecoveryManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        <state relative-caret-position="144">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
           <folding>
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#517#518#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-            <element signature="e#664#665#0" expanded="true" />
-            <element signature="e#690#691#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/recoverablehashmap/RecoverableHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="291">
+          <caret line="57" column="33" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#905#906#0" expanded="true" />
-            <element signature="e#932#933#0" expanded="true" />
-            <element signature="e#988#989#0" expanded="true" />
-            <element signature="e#1015#1016#0" expanded="true" />
+            <element signature="method#RecoverableHashMap#0;class#RecoverableHashMap#0" />
+            <element signature="method#put#0;class#RecoverableHashMap#0" />
+            <element signature="method#remove#0;class#RecoverableHashMap#0" />
+            <element signature="method#replace#0;class#RecoverableHashMap#0" />
           </folding>
         </state>
       </provider>
